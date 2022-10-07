@@ -1,0 +1,8 @@
+One of the applications of Binary Trees is Expression Tree. 
+An expression tree is a binary tree that models an expression. 
+Where all internal nodes represent operators and leaf nodes represent operands. 
+Create an ADT ExpressionTree of operators : +, -, * and / and integer operands. 
+It has following functions: 
+1. InitTree(): This function creates a new expression tree and populates is using an infix expression read from user. It should appropriately handle errors in the input. 
+2. Traverse(): This function performs in-order traversal of the tree. 
+3. Compute(): This function evaluates each subtree and displays the in-order traversal of intermediate tree created in the process. It returns the final result of the evaluation of the expression. 

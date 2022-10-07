@@ -2,7 +2,8 @@
 
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ds97LCK---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ymlmr15l83rrjq8natft.jpg">
 
-<img src="https://img.shields.io/badge/language-C++-ff69b4?style=for-the-badge"> <img src="https://img.shields.io/badge/language-python-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/language-java-orange?style=for-the-badge"> <a href="https://raw.githubusercontent.com/Py-Contributors/AlgorithmsAndDataStructure/master/LICENSE"><img src="https://img.shields.io/github/license/Py-Contributors/AlgorithmsAndDataStructure?style=for-the-badge" alt="MIT license"></a> ﻿[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+<img src="https://img.shields.io/badge/language-C++-ff69b4?style=for-the-badge"> <img src="https://img.shields.io/badge/language-C-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/language-python-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/language-java-orange?style=for-the-badge"> <a href="https://raw.githubusercontent.com/Py-Contributors/AlgorithmsAndDataStructure/master/LICENSE"><img src="https://img.shields.io/github/license/Py-Contributors/AlgorithmsAndDataStructure?style=for-the-badge" alt="MIT license"></a> <br>
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
 
 
@@ -14,7 +15,7 @@
 ## Contributing
 
 Before creating a PR or issue, please do the following:
-Check the [Contribution](https://github.com/bhumikatewary/Practice-Problems/blob/d46e7930e947b3df7811f50c3e13f014b166e6fe/others/Contributing.md) Guide.<br>
+Check the [Contribution](CONTRIBUTING.md) Guide.<br>
 You can also update the repository according to this structure: [Arrays](https://github.com/bhumikatewary/Practice-Problems/tree/main/Arrays)
 
 ## Articles for your reference
